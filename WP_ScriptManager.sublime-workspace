@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"H",
+				"HTMLmem"
+			],
+			[
+				"New",
+				"New_book_finish"
+			],
+			[
+				"Ren",
+				"Rename_book_finish"
+			],
+			[
+				"current",
+				"currentScrap"
+			],
+			[
+				"curret",
+				"currentScrap"
+			],
+			[
+				"curr",
+				"currentScrap"
+			],
+			[
+				"list",
+				"list_scripts"
+			],
+			[
+				"basec",
+				"basecolor4"
+			],
+			[
+				"b",
+				"basecolor3"
+			],
+			[
+				"basecolor",
+				"basecolor2"
+			],
+			[
+				"cct",
+				"cctWP_SB"
+			],
+			[
+				"sc",
+				"scrap"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"page",
+				"pagename"
+			],
+			[
+				"pag",
+				"pagename"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/scrapbook_admin.php",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/js/WP_Scrapbook_admin.js",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/css/ScrapbookStyles.php",
+		"/C/wamp/www/phptest/default.css",
+		"/C/wamp/www/phptest/removeCookie.php",
+		"/C/wamp/www/phptest/index.php",
+		"/C/wamp/www/phptest/removecookie.php",
+		"/C/Users/raguay/Documents/Custom Computer Tools/Tutorials/colorwheel/colorwheel_icon.png",
+		"/C/Users/raguay/Documents/rag/PHP/WordPress/rag/WP_ScriptManager_compressed/WP_ScriptManager/activation.php",
+		"/C/Users/raguay/AppData/Local/Temp/Temp1_WP_ScriptManager1_0.zip/WP_ScriptManager/WP_ScriptManager.php",
+		"/C/Users/raguay/AppData/Local/Temp/Temp1_WP_ScriptManager1_0.zip/WP_ScriptManager/activation.php",
+		"/C/Program Files (x86)/LEXiTRON Dictionary 2.6/LEXiTRON.vbs",
+		"/C/Program Files (x86)/LEXiTRON Dictionary 2.6/LEXiTRON.bat",
+		"/C/Users/raguay/Dropbox/Richard/Rachota/Rachota.bat",
+		"/C/Users/raguay/Dropbox/Richard/Rachota/Rachota.vbs",
+		"/C/Users/raguay/Documents/Murphy/web site/Karma-Wordpress-Theme-Package/Karma/truethemes_framework/js/truethemes.js",
+		"/C/Users/raguay/Documents/Murphy/web site/Karma-Wordpress-Theme-Package/Karma/truethemes_framework/theme_specific/karma_files/karma-javascript.php",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/activation.php",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/help/plugin_help_en.php",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/js/WP_Scrapbook_user.js",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/js/WP_Srapbook_admin.js",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/deactivation.php",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/smplugin/sbplugin.js",
+		"/C/Users/raguay/AppData/Local/Temp/Temp1_WP_ScriptManager1_0.zip/WP_ScriptManager/smplugin/smplugin.js",
+		"/C/Users/raguay/AppData/Local/Temp/Temp1_WP_ScriptManager.zip/WP_ScriptManager/smplugin/smplugin.js",
+		"/C/Users/raguay/Documents/rag/PHP/WordPress/rag/WP_ScriptManager_uncompressed/WP_ScriptManager/smplugin/smplugin.js",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/Scrapbook/smplugin/smplugin.js",
+		"/C/Users/raguay/Documents/rag/JavaScript/Less/cloudhead-less.js-2af0f62/lib/less/functions.js",
+		"/C/Users/raguay/Documents/rag/JavaScript/Less/cloudhead-less.js-2af0f62/lib/less/parser.js",
+		"/C/Users/raguay/AppData/Roaming/Sublime Text 2/Installed Packages/xobb1t-Sublime-AdvancedNewFile-7361b78/README.rst",
+		"/C/Users/raguay/AppData/Local/Temp/Temp1_xobb1t-Sublime-AdvancedNewFile-7361b78.zip/xobb1t-Sublime-AdvancedNewFile-7361b78/README.rst",
+		"/C/Users/raguay/Downloads/xobb1t-Sublime-AdvancedNewFile-7361b78/README.rst",
+		"/C/Users/raguay/Documents/Custom Computer Tools/Tutorials/calculator/article.html",
+		"/C/wamp/www/WP_test/wp/wp-content/plugins/WP_ScriptManager/css/ScriptManagerStyles.php",
+		"/C/Users/raguay/Documents/Custom Computer Tools/Tutorials/calculator/codemirror styles.css",
+		"/C/ProgramData/The Word/thai.lng",
+		"/C/Users/raguay/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/raguay/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\raguay\\Documents\\Murphy\\web site\\Karma-Wordpress-Theme-Package\\Karma"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"alignright",
+			"add_filter",
+			"'the_content'",
+			"apply_filters('the_content'",
+			"apply_filter",
+			"wp_register_script",
+			"ScrapList",
+			"save",
+			"post",
+			"rename",
+			"create_script_list",
+			"get_script_list",
+			"Create_Script_List",
+			"edit",
+			"scrapbook_admin",
+			"$ob_SM",
+			"Script Manager",
+			"$ob_SM",
+			"sm-",
+			"cctWP_SB",
+			"color",
+			"fbt",
+			"farbtastic",
+			"fab",
+			"fbt",
+			"<div style=\"clear: both;\">",
+			"padding-right: 0px; margin-bottom: 10px;",
+			"margin-left: auto; margin-right: auto;",
+			"<pre>",
+			"overflow-y: visible; overflow-x: auto;",
+			"1.5em",
+			"<span style=\"",
+			"<pre style=\"line-height: 1.5em; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px;",
+			"<pre style=\"line-height: 1.5em; ",
+			"overflow-y: hidden;",
+			"<div style=\"line-height: 1.5em;",
+			"class=\"clear\"",
+			"class=",
+			"class=\"cm-quote\"",
+			"class=\"cm-header\"",
+			"class=\"cm-attribute\"",
+			"class=\"cm-tag\"",
+			"class=\"cm-bracket\"",
+			"class=\"cm-qualifier\"",
+			"class=\"cm-property\"",
+			"class=\"cm-variable-3\"",
+			"class=\"cm-variable-2\"",
+			"class=\"cm-def\"",
+			"class=\"cm-meta\"",
+			"class=\"cm-atom\"",
+			"class=\"cm-number\"",
+			"class=\"cm-variable\"",
+			"class=\"cm-special\"",
+			"class=\"cm-builtin\"",
+			"class=\"cm-string\"",
+			"class=\"cm-keyword\"",
+			"class=\"cm-comment\"",
+			"<pre>",
+			"class=\"codearea\"",
+			"class=\"CodeMirror codemirrordiv cm-s-neat\"",
+			"codemirrordiv",
+			"min-height:100%;",
+			"<pre>",
+			"white",
+			"<pre>",
+			"class=\"",
+			"class=\"clear\"",
+			"class=\"cm-link\"",
+			"class=\"cm-quote\"",
+			"class=\"cm-header\"",
+			"class=\"cm-attribute\"",
+			"class=\"cm-tag\"",
+			"class=\"cm-bracket\"",
+			"class=\"cm-qualifier\"",
+			"class=\"cm-operator\"",
+			"class=\"cm-property\"",
+			"class=\"cm-variable-3\"",
+			"class=\"cm-variable-2\"",
+			"class=\"cm-def\"",
+			"class=\"cm-meta\"",
+			"class=\"cm-atom\"",
+			"class=\"cm-number\"",
+			"class=\"cm-variable\"",
+			"class=\"cm-special\"",
+			"class=\"cm-builtin\"",
+			"class=\"cm-string\"",
+			"class=\"cm-keyword\"",
+			"class=\"cm-comment\"",
+			"class=\"codemirrornumbers\"",
+			"class=\"codearea\"",
+			"class=\"codemirrornumbers\"",
+			"class=\"CodeMirror codemirrordiv cm-s-neat\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"alignleft",
+			"wp_enqueue_script",
+			"$cctWP_SB",
+			"Scrapbook Manager",
+			"$cctWP_SB",
+			"sb-",
+			"padding-right: 10px; margin-bottom: 10px;",
+			"margin-left: 10px; margin-right: 10px;",
+			"<pre style=\"padding-bottom: 0px; padding-top: 20px; padding-left: 10px; padding-right: 0px; margin-bottom: 10px; margin-top: 10px; margin-left: auto; margin-right: auto; border: 0px;\">",
+			"overflow: auto;",
+			"12px",
+			"<span style=\"line-height: 12px; height: 12px; ",
+			"<pre style=\"line-height: 1.5em; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px; border-right-width: 0px; border-left-width: 0px; border-top-width: 0px; border-bottom-width: 0px;",
+			"<pre style=\"line-height: 1.5em; padding-left: 0px; padding-right: 0px; padding-top: 0px; padding-bottom: 0px; background: white; font-size: 12px; ",
+			"overflow-y: visible;",
+			"<div style=\"line-height: 1.5em; font-size: 12px; background: white; ",
+			"style=\"clear: both;\"",
+			"style=\"color: #009900;\"",
+			"style=\"color: #aa00aa;\"",
+			"style=\"color: #0000cc;\"",
+			"style=\"color: #117700;\"",
+			"style=\"color: #cccc77;\"",
+			"style=\"color: #555555;\"",
+			"style=\"color: #000000;\"",
+			"style=\"color: #00aa55;\"",
+			"style=\"color: #0055aa;\"",
+			"style=\"color: #0000ff;\"",
+			"style=\"color: #555555;\"",
+			"style=\"color: #33aa33;\"",
+			"style=\"color: #000000;\"",
+			"style=\"color: #00aaaa;\"",
+			"style=\"color: #007777;\"",
+			"style=\"color: #aa2222;\"",
+			"style=\"color: #0000ff;\"",
+			"style=\"color: #aa8866;\"",
+			"<pre style=\"line-height: 1.5em; height: 1.5em; padding: 0px; margin: 0px; white-space: pre; overflow: visible;\">",
+			"style=\"line-height: 1.5em; font-family: monospace; min-height: 100%; white-space: pre; margin-left: 5px; margin-right: 0px; margin-top: 0px; margin-bottom: 0px; overflow-y: hidden; overflow-x: auto; background: #ffffff;\"",
+			"style=\"font-size: 12px; line-height: 1.5em;  font-family: monospace; min-height: 100%; max-height: inherit; margin-top: 0px; background: #ffffff;\"",
+			"",
+			"<pre style=\"-moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; border-radius: 0; border-width: 0; margin: 0; padding: 0; background: transparent; padding: 0; margin: 0; word-wrap: normal; overflow: hidden; font-family: inherit !important; font-size: inherit !important; margin: 0px !important; line-height: 1.5em; height: 1.5em; padding: 0px; margin: 0px; white-space: pre; overflow: visible;\">",
+			"<pre style=\"-moz-border-radius: 0; -webkit-border-radius: 0; -o-border-radius: 0; border-radius: 0; border-width: 0; margin: 0; padding: 0; background: transparent; padding: 0; margin: 0; white-space: pre; word-wrap: normal; overflow: hidden; font-family: inherit !important; font-size: inherit !important; margin: 0px !important;\">",
+			"style=\"clear: both;\"",
+			"style=\"color: #0000cc;\"",
+			"style=\"color: #009900;\"",
+			"style=\"color: #aa00aa;\"",
+			"style=\"color: #0000cc;\"",
+			"style=\"color: #117700;\"",
+			"style=\"color: #cccc77;\"",
+			"style=\"color: #555555;\"",
+			"style=\"color: #000000;\"",
+			"style=\"color: #00aa55;\"",
+			"style=\"color: #0055aa;\"",
+			"style=\"color: #0000ff;\"",
+			"style=\"color: #555555;\"",
+			"style=\"color: #33aa33;\"",
+			"style=\"color: #000000;\"",
+			"style=\"color: #00aaaa;\"",
+			"style=\"color: #007777;\"",
+			"style=\"color: #aa2222;\"",
+			"style=\"color: #0000ff;\"",
+			"style=\"color: #aa8866;\"",
+			"style=\"display: inline; position: relative; top: 0px; left: 0px; line-height: 1.5em; font-family: monospace; min-height: 100%; max-height: inherit; width: 25px; vertical-align: top; float: left; color: #000000; background: #add8e6 !important;\"",
+			"style=\"line-height: 1.5em; font-family: monospace; min-height: 100%; white-space: pre; margin-left: 5px; margin-right: 0px; margin-top: 0px; margin-bottom: 0px; overflow-y: hidden; overflow-x: auto; background: #ffffff;\"",
+			"\"line-height: 1.5em; font-family: monospace; min-height: 100%; white-space: pre; margin-left: 5px; margin-right: 0px; margin-top: 0px; margin-bottom: 0px; overflow-y: hidden; overflow-x: auto; background: #ffffff;\"",
+			"style=\"display:inline;position:relative;top:0px;left:0px;line-height:1.5em;font-family:monospace;min-height:100%; max-height:inherit; width:25px; vertical-align:top; float:left; color:#000000; background: #add8e6 !important;\" ",
+			"style=\"line-height: 1.5em; font-family: monospace; min-height: 100%; max-height: inherit; margin-top: 0px; background: #ffffff;\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
